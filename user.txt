@@ -1,0 +1,21 @@
+admin;admin;Alston;20;010010010;UTAR Sungai Long;C;02/02/23
+jane;jane;Jane Zulkernain;32;(603) 26978088;26B Jalan Pandan Indah 1/23A Pandan Indah;A;12/03/2023
+john;john;John Leow;27;03-8733-9282;Jalan Bukit Mewah 21, Taman Bukit Mewah;B;20/01/2023
+yao;yao;Yao Leon Xing;15;03-7877-1793;Jalan Teratai, Taman Berjaya;B;20/10/2022
+tham;tham;P. Thambu;26;+60 (0)4 917-6653;No. 9, Jalan PJS 8/9;B;25/02/2023
+david;david;David Chen Shew Kou;40;039173-2644;2 Jln 11/118B Desa Tun Razak;B;15/11/2022
+zul;zul;Muhamad Zulhaikal bin Nordin;60;60333441919;No. 9 Jalan Pasar;A;20/11/2022
+che;che;Che Mukminin bin Wazzirul Noraffendi;53;038961-2219;No. 4844 Jln Sungai Besi Batu 13 Kampung Baru Balakong Cheras;B;28/06/2022
+soh;soh;Soh To Mew;24;(603) 27708184;30B Jln 6/21D Medan Idaman Bussiness Centre Batu 5 Jalan Gombak;B;09/07/2022
+syb;syb;Sybil a/l Mahathir Vadiveloo;18;+60 (0)3 6184-1518;Wisma Keringat 1, Lorong Batu Caves;A;11/03/2023
+than;than;D. Thanuja;2;03-4291 0336;No. 138, 1st Floor, Ampang;A;22/01/2023
+yew;yew;John Yew;23;603-58920858;24 Menara Promet Jln Sultan Ismail;A;11/11/2022
+haji;haji;Haji Che Abd Juhari bin Rusdi;70;5 Jln Kelumpang 27/41A Seksyen 27 Shah Alam Shah Alam;B;20/05/2022
+gok;gok;Leng Thung Gok;36;(603) 40221325;56A Jalan 6/21D Medan Idaman Business Ctr Batu 5 Jalan Gombak;B;17/04/2023
+jane;jane;Jane Sinnathamby;54;034045-7976;No. 7 1St Floor Jln 15/48A Off Jln Sentul;A;11/11/2022
+kar;kar;Karnail a/l Rattan Kathigasu;25;032282-9237;G 12 Jln Telawi Tiga Bangsar Baru;A;12/12/2022
+mani;mani;S. A. Manicka;56;60-88-316471;8 Kompleks Jln Sultan;B;06/03/2023
+loke;loke;Loke Xun Pek;38;604329 7958;7236G, Jalan Permatang Pauh Taman Bagan;A;10/09/2022
+hoo;hoo;Hoo Sho Jeu;5;(656) 56369056;24 Jalan TS 6 Taman Indsutri;B;20/02/2023
+ling;ling;Ling Ther Nin;73;03-4043-0849;Off Jalan , Batu 3, Wilayah Persekutuan;A;19/01/2023
+iffat;iffat;Mohamed Mukhriz 'Iffat bin Nik Amin;75;05243-5489;Wisma Kinta Jln Yang Kalsom;B;09/07/2022
